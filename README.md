@@ -1,1 +1,1 @@
-# mast-jubilee
+# Resources for the MAST Jubilee 2022
