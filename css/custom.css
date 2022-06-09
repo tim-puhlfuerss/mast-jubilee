@@ -42,7 +42,7 @@ a:hover {
 }
 
 .jumbotron {
-    background-image: url("../img/banner.jpeg");
+    background-image: url("../img/hamburg_patrick_rosenkranz_unsplash.jpg"); /*url("../img/banner.jpeg");*/
     -webkit-font-smoothing: antialiased;
     background-position: center; /*right bottom;*/
     background-size: cover;
